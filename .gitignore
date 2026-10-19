@@ -1,0 +1,12 @@
+# Este es para activar el entorno virtual.
+venv/
+env/
+
+# Este es para ver si se puede retomar el Caché de Python.
+__pycache__/
+*.pyc
+*.pyo
+
+# Este es para las configuraciones locales de editor de VS Code.
+.vscode/
+.idea/
